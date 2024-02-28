@@ -48,6 +48,50 @@
   color: #61dafb;
 }
 
-/* .BookDetails {
-  margin-right: 50px;
-} */
+.btn {
+  margin-left: 40px;
+  cursor: pointer;
+}
+
+.cardBook p {
+  font-size: 17px;
+  margin-top: 25px;
+  text-align: center;
+}
+
+.cardBook button {
+  margin-top: 20px;
+} 
+
+.details h2 {
+  font-weight: 500;
+  margin-left: 50px;
+}
+
+.details p {
+  font-weight: 500;
+  font-size: 0.93em;
+  margin-left: 25px;
+}
+
+.details {
+  align-self: center;
+  margin-top: -30px;
+}
+
+.subtitle{
+  display: flex;
+  margin-left: 25px;
+  margin-top: -25px;
+}
+
+.line {
+  width: 95%;
+  margin: 25px;
+  border-bottom: 0.5px solid #848484;
+  margin-top: -10px;
+}
+
+.LuUpload {
+  color: black;
+}
